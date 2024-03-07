@@ -130,8 +130,8 @@ h1 {
     height: 100%;
     width: 100%;
     opacity: 0;
-    transition: 3.5s ease;
-    background-color: #04aa60;
+    transition: 2.5 ease;
+    background-color: #c93c3c;
 }
 
 .container:hover .overlay{
